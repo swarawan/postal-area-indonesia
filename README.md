@@ -5,7 +5,7 @@
 [![](https://jitpack.io/v/swarawan/postal-area-indonesia.svg)](https://jitpack.io/#swarawan/postal-area-indonesia)
 
 
-####Installation
+###Installation
 Add jitpack repository in pom.xml
 ```
 <repositories>
