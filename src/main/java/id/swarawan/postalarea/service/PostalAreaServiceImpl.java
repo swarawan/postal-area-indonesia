@@ -6,8 +6,6 @@ import id.swarawan.postalarea.entity.DistrictData;
 import id.swarawan.postalarea.entity.ProvinceData;
 import id.swarawan.postalarea.entity.VillageData;
 import id.swarawan.postalarea.utils.JsonUtils;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 
 import java.io.IOException;
 import java.util.ArrayList;
