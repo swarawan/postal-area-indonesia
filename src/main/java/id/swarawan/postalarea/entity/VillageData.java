@@ -14,7 +14,7 @@ public class VillageData {
 	@JsonProperty("village_district_id")
 	private Long districtId;
 
-	@JsonProperty("village_name")
+	@JsonProperty("village_village_name")
 	private String name;
 
 	@JsonProperty("village_type")
