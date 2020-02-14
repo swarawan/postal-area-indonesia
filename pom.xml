@@ -10,7 +10,7 @@
     </parent>
     <groupId>id.swarawan</groupId>
     <artifactId>postal-area</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
     <name>postal-area-indonesia</name>
     <description>Demo project for Spring Boot</description>
     <packaging>jar</packaging>
